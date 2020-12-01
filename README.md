@@ -3,8 +3,6 @@
 
 I participated in **Machine Learning for Science (ML4SCI) Hackathon Competition** that took place virtually from **October 26-30, 2020** with Avanti Bhandarakar and Enes Grahovac, who are fellow students from University of Florida. The competition was sponsored by the University of Alabama Cyber Initiative and the Brown Data Science Initiative. The hackathon focused on applying **machine learning** techniques to scientific challenges, including those from the fields of physics, astronomy, planetary science and geoscience.
 
-![ML4SCI Logo](ML4SCI.jpg)
-
 There were six main challenges:
 
 * Higgs Boson Challenge (Classification, General)
@@ -23,11 +21,11 @@ We competed in **NMR Spin Challenge**.
 - Materials with strong electron-electron couplings have a variety of applications, from superconductivity to ferromagnetism. They also tend to enhance the nuclear spin-spin couplings, allowing NMR to act as a probe of these important systems.
 - Our goal was to design and train a machine learning models that predicts the strength and shape of interactions between the nuclear spins from simulated time-dependent magnetization curves, M(t).
 
-More details about the provlem, data and metrics used to award results are available from the below link.
+More details about the problem, data and metrics used to award results are available from the below link.
 
 https://github.com/ML4SCIHackathon/ML4SCI/tree/main/NMRSpinChallenge
 
-We won the first place in NMR spin challenge in this hackathon and were awarded a certificate and some cool goodies. 
+We won the first place in NMR spin challenge in this hackathon and were awarded a certificate. 
 
 ![first-place-certificate](prize.jpg)
 

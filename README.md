@@ -25,7 +25,7 @@ More details about the problem, data and metrics used to award results are avail
 
 https://github.com/ML4SCIHackathon/ML4SCI/tree/main/NMRSpinChallenge
 
-We won the first place in NMR spin challenge in this hackathon and were awarded a certificate and some cool goodies. 
+We won the first place in NMR spin challenge in this hackathon and were awarded a certificate. 
 
 ![first-place-certificate](prize.jpg)
 

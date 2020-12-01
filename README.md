@@ -19,7 +19,7 @@ We competed in **NMR Spin Challenge**.
 - Nuclear Magnetic Resonance (NMR) is an experimental technique that allows for the control and measurement of nuclear spins in crystals and molecules.
 - A common "recipe" for NMR is called the spin echo: the spins start aligned, begin to disperse, and are then refocused. This creates a sharp peak, or "echo", in the net magnetization M of the material at a later time. When the spins interact with each other, this refocused echo can become highly distorted.
 - Materials with strong electron-electron couplings have a variety of applications, from superconductivity to ferromagnetism. They also tend to enhance the nuclear spin-spin couplings, allowing NMR to act as a probe of these important systems.
-- Our goal was to design and train a machine learning models that predicts the strength and shape of interactions between the nuclear spins from simulated time-dependent magnetization curves, M(t).
+- Our goal was to design and train machine learning models that predicts the strength and shape of interactions between the nuclear spins from simulated time-dependent magnetization curves, M(t).
 
 More details about the problem, data and metrics used to award results are available from the below link.
 

@@ -3,8 +3,6 @@
 
 I participated in **Machine Learning for Science (ML4SCI) Hackathon Competition** that took place virtually from **October 26-30, 2020** with Avanti Bhandarakar and Enes Grahovac, who are fellow students from University of Florida. The competition was sponsored by the University of Alabama Cyber Initiative and the Brown Data Science Initiative. The hackathon focused on applying **machine learning** techniques to scientific challenges, including those from the fields of physics, astronomy, planetary science and geoscience.
 
-![ML4SCI Logo](ML4SCI.jpg)
-
 There were six main challenges:
 
 * Higgs Boson Challenge (Classification, General)

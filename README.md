@@ -23,7 +23,7 @@ We competed in **NMR Spin Challenge**.
 - Materials with strong electron-electron couplings have a variety of applications, from superconductivity to ferromagnetism. They also tend to enhance the nuclear spin-spin couplings, allowing NMR to act as a probe of these important systems.
 - Our goal was to design and train a machine learning models that predicts the strength and shape of interactions between the nuclear spins from simulated time-dependent magnetization curves, M(t).
 
-More details about the provlem, data and metrics used to award results are available from the below link.
+More details about the problem, data and metrics used to award results are available from the below link.
 
 https://github.com/ML4SCIHackathon/ML4SCI/tree/main/NMRSpinChallenge
 
